@@ -5,8 +5,6 @@ body:
       label: Pre-submission Checklist
       description: Please verify the following before sharing your work
       options:
-        - label: I have checked that this content would not be more appropriate in a specific repository
-          required: true
         - label: This post follows the MCP community guidelines
           required: true
 
