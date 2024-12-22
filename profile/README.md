@@ -34,6 +34,7 @@ The Model Context Protocol (MCP) is an open protocol that enables seamless integ
 - [docs](https://github.com/modelcontextprotocol/docs) - User documentation and guides
 - [create-python-server](https://github.com/modelcontextprotocol/create-python-server) - Python server template
 - [create-typescript-server](https://github.com/modelcontextprotocol/create-typescript-server) - TypeScript server template
+- [create-kotlin-server](https://github.com/modelcontextprotocol/kotlin-sdk/tree/main/samples/kotlin-mcp-server) - Kotlin sample server
 - [servers](https://github.com/modelcontextprotocol/servers) - List of maintained servers
 
 ## Contributing
