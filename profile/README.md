@@ -23,6 +23,7 @@ The Model Context Protocol (MCP) is an open protocol that enables seamless integ
 - 💻 Use our SDKs to start building:
   - [TypeScript SDK](https://github.com/modelcontextprotocol/typescript-sdk)
   - [Python SDK](https://github.com/modelcontextprotocol/python-sdk)
+  - [Java SDK](https://github.com/modelcontextprotocol/java-sdk)
   - [Kotlin SDK](https://github.com/modelcontextprotocol/kotlin-sdk)
 
 ## Project Structure
@@ -30,6 +31,7 @@ The Model Context Protocol (MCP) is an open protocol that enables seamless integ
 - [specification](https://github.com/modelcontextprotocol/specification) - Protocol specification and documentation
 - [typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) - TypeScript implementation
 - [python-sdk](https://github.com/modelcontextprotocol/python-sdk) - Python implementation
+- [java-sdk](https://github.com/modelcontextprotocol/java-sdk) - Java implementation
 - [kotlin-sdk](https://github.com/modelcontextprotocol/kotlin-sdk) - Kotlin implementation
 - [docs](https://github.com/modelcontextprotocol/docs) - User documentation and guides
 - [create-python-server](https://github.com/modelcontextprotocol/create-python-server) - Python server template
